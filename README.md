@@ -1,4 +1,4 @@
-# Hi there 👋 I'm Adarsh C
+## Hi there 👋 I'm Adarsh C
 
 
 ## 🚀 About Me
@@ -6,8 +6,9 @@
 I'm an *Aspiring Data Analyst* with a strong foundation in SQL, Excel.  
 I specialize in converting complex data into clear, actionable insights to drive smart business decisions.
 
-📍 Based in India | 🌍 Open to remote & international opportunities  
-💡 Currently focused on real-world case studies, dashboards, and data-driven projects.
+🎓 B.Tech in Information Technology  
+📊 Proficient in data wrangling, cleaning, visualization & dashboarding  
+📍 Based in India | 🌍 Open to full-time & freelance opportunities
 
 ---
 
@@ -33,3 +34,8 @@ I specialize in converting complex data into clear, actionable insights to drive
 
 - 📊 **SQL Case Studies**: Danny's Dinner Case Study  
 
+
+## 📫 Let's Connect
+
+📧 Email: adarshcrv@gmail.com  
+🔗 [LinkedIn](www.linkedin.com/in/adarsh-c-developer)  
