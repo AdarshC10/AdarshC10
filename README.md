@@ -3,8 +3,7 @@
 
 ## 🚀 About Me
 
-I'm an *Aspiring Data Analyst* with a strong foundation in SQL, Excel.  
-I specialize in converting complex data into clear, actionable insights to drive smart business decisions.
+I'm a data enthusiast with a strong foundation in turning raw data into meaningful insights. I love working with datasets to uncover trends, tell stories with visuals, and support data-driven decisions. I’m currently focused on building real-world case studies and dashboards that solve practical business problems.
 
 🎓 B.Tech in Information Technology  
 📊 Proficient in data wrangling, cleaning, visualization & dashboarding  
