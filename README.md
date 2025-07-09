@@ -14,21 +14,25 @@ I'm a data enthusiast with a strong foundation in turning raw data into meaningf
 
 
 ### 📊 Data Analytics & BI
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=databricks&logoColor=white)
+![Microsoft Excel](https://img.shields.io/badge/Excel-0A6F34?style=for-the-badge&logo=microsoft&logoColor=white)
 
 ### 💻 Frontend Development
-![HTML5](https://img.shields.io/badge/HTML-E44D26?style=for-the-badge&logo=w3c&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS-264DE4?style=for-the-badge&logo=csswizardry&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![React.js](https://img.shields.io/badge/React.js-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML-FF5722?style=for-the-badge&logo=googlechrome&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS-2196F3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F0DB4F?style=for-the-badge&logo=libuv&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=reactos&logoColor=black)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-00BFA6?style=for-the-badge&logo=sass&logoColor=white)
 
 ### 🖥️ Backend & Databases
-![Node.js](https://img.shields.io/badge/Node.js-3C873A?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-404D59?style=for-the-badge&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-13AA52?style=for-the-badge&logo=mongodb&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=vercel&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express-404040?style=for-the-badge&logo=hashnode&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-10AA50?style=for-the-badge&logo=leaflet&logoColor=white)
 
+## 🌐 Others
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=openai&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-F56C2D?style=for-the-badge&logo=workplace&logoColor=white)
 
 
 ---
