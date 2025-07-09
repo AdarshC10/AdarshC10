@@ -45,4 +45,5 @@ I'm a data enthusiast with a strong foundation in turning raw data into meaningf
 ## 📫 Let's Connect
 
 📧 Email: adarshcrv@gmail.com  
-🔗 [LinkedIn](www.linkedin.com/in/adarsh-c-developer)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adarsh-c-developer)
+
