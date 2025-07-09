@@ -13,7 +13,7 @@ I'm a data enthusiast with a strong foundation in turning raw data into meaningf
 ## 🧰 Tech Stack
 
 
-### 📊 Data Analytics & BI
+### 📊 Data Analytics 
 ![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=databricks&logoColor=white)
 ![Microsoft Excel](https://img.shields.io/badge/Excel-0A6F34?style=for-the-badge&logo=microsoft&logoColor=white)
 
