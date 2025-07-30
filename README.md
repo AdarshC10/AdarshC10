@@ -16,6 +16,9 @@ I'm a data enthusiast with a strong foundation in turning raw data into meaningf
 ### 📊 Data Analytics 
 ![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=databricks&logoColor=white)
 ![Microsoft Excel](https://img.shields.io/badge/Excel-0A6F34?style=for-the-badge&logo=microsoft&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+
 
 ### 💻 Frontend Development
 ![HTML5](https://img.shields.io/badge/HTML-FF5722?style=for-the-badge&logo=googlechrome&logoColor=white)
