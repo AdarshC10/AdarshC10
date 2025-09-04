@@ -42,7 +42,12 @@ I'm a data enthusiast with a strong foundation in turning raw data into meaningf
 
 ## 📌 Projects
 
-- 📊 **SQL Case Studies**: Danny's Dinner Case Study  
+- 📊 **SQL Case Studies**
+  - Danny's Dinner Case Study
+  - Pizza Runner
+  - Foodie-Fi
+  - Data Bank
+  - Clique Bait
 
 
 ## 📫 Let's Connect
