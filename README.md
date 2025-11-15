@@ -92,38 +92,7 @@ I'm a data enthusiast with a strong foundation in turning raw data into meaningf
   src="https://streak-stats.demolab.com?user=AdarshC10&theme=transparent&hide_border=true&background=FFFFFF&currStreakLabel=007BFF&sideNums=000000&sideLabels=007BFF&ring=007BFF&fire=007BFF" 
   width="500"
 />
-<img 
-  src="https://streak-stats.demolab.com?user=AdarshC10&hide_border=true&background=0D1117&ring=00A8FF&fire=00A8FF&currStreakLabel=00A8FF&sideNums=E6F4FF&sideLabels=A8D8FF" 
-  width="500"
-/>
-<img 
-  src="https://streak-stats.demolab.com?user=AdarshC10&hide_border=true&background=FFFFFF&ring=0056D2&fire=0056D2&currStreakLabel=0056D2&sideNums=000000&sideLabels=0056D2" 
-  width="500"
-/>
-<img 
-  src="https://streak-stats.demolab.com?user=AdarshC10&hide_border=true&background=3A0CA3&ring=7209B7&fire=4CC9F0&currStreakLabel=F72585&sideNums=C0A6F7&sideLabels=F7ECFF" 
-  width="500"
-/>
-<img 
-  src="https://streak-stats.demolab.com?user=AdarshC10&hide_border=true&background=ffffff00&ring=0088FF&fire=0088FF&currStreakLabel=00C8FF&sideNums=FFFFFF&sideLabels=E0E0E0" 
-  width="500"
-/>
-<img 
-  src="https://streak-stats.demolab.com?user=AdarshC10&hide_border=true&background=0A0F24&ring=1E90FF&fire=1E90FF&currStreakLabel=7EC8FF&sideNums=D2E9FF&sideLabels=7EC8FF" 
-  width="500"
-/>
-<img 
-  src="https://streak-stats.demolab.com?user=AdarshC10&hide_border=true&background=000000&ring=00FFFF&fire=00FFFF&currStreakLabel=00FFFF&sideNums=BFFDFD&sideLabels=79F8F8" 
-  width="500"
-/>
-<img 
-  src="https://streak-stats.demolab.com?user=AdarshC10&hide_border=true&background=1A1A1A&ring=F1C40F&fire=F39C12&currStreakLabel=F7DC6F&sideNums=FDF3C8&sideLabels=F9E79F" 
-  width="500"
-/>
-<img 
-  src="https://streak-stats.demolab.com?user=AdarshC10&hide_border=true&background=ff7e5f&ring=feb47b&fire=feb47b&currStreakLabel=ffffff&sideNums=ffffff&sideLabels=ffffff" 
-  width="500"
-/>
+
 
 
 
@@ -146,6 +115,10 @@ I'm a data enthusiast with a strong foundation in turning raw data into meaningf
 />
 <img 
   src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdarshC10&layout=compact&hide_border=true&bg_color=FFFFFF&title_color=0A66C2&text_color=000000" 
+  width="500"
+/>
+<img 
+  src="https://streak-stats.demolab.com?user=AdarshC10&hide_border=true&background=FFFFFF&ring=DAA520&fire=FFD700&currStreakLabel=DAA520&sideNums=000000&sideLabels=DAA520" 
   width="500"
 />
 
