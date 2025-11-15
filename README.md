@@ -1,4 +1,4 @@
-# 👋 Hi, I'm **Adarsh C**
+                                                                              # 👋 Hi, I'm **Adarsh C**
 ### 📊 Data Analyst | Power BI | SQL | Excel | Python | Machine Learning  
 
 I’m a passionate **Data Analyst** skilled in turning raw data into meaningful insights using analytics, visualization, and data storytelling.
@@ -44,9 +44,11 @@ I’m a passionate **Data Analyst** skilled in turning raw data into meaningful 
 
 ## 🧪 Projects  
 ### 📊 Dashboards
-- **Blinkit Sales Dashboard** – Excel  
-- **Road Accident Dashboard** – Excel/BI  
-- **YouTube Analytics Dashboard** – Power BI  
+- **Sales Tracker Dashboard** – Excel  
+- **HR Dashboard** – Excel  
+- **Budget And Sales Dashboard** – Power BI
+- **Ice Cream Sales Dashboard** – Power BI
+- **Meta Ad Perfomance Dashboard** – Power BI 
 
 ### 🐍 Python / ML
 - ML Mini Projects  
@@ -55,7 +57,11 @@ I’m a passionate **Data Analyst** skilled in turning raw data into meaningful 
 
 ### 🗄 SQL Case Studies
 - Danny’s Diner  
-- Pizza Runner  
+- Pizza Runner
+- Data Bank
+- Data Mart
+- Foodie FI
+- Calique Bait  
 - Retail & Customer Insights Queries  
 
 ---
