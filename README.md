@@ -98,12 +98,9 @@ I'm a data enthusiast with a strong foundation in turning raw data into meaningf
 
 
   <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdarshC10&layout=compact&theme=tokyonight&hide_border=true" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdarshC10&layout=compact&hide_border=true&title_color=00FFFF&text_color=FFFFFF&bg_color=0D1117" 
     width="500"
   />
-
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AdarshC10&layout=compact&hide_border=true&title_color=00FFFF&text_color=FFFFFF&bg_color=0D1117)
-
 
 ---
 
