@@ -1,13 +1,16 @@
 <div align="center">
+
 # 👋 Hi, I'm **Adarsh C**
 ### 📊 Data Analyst | Power BI | SQL | Excel | Python | Machine Learning  
 
-I’m a passionate **Data Analyst** skilled in turning raw data into meaningful insights using analytics, visualization, and data storytelling.
-
 </div>
+
 ---
 
 ## 🚀 About Me
+
+I'm a data enthusiast with a strong foundation in turning raw data into meaningful insights. I love working with datasets to uncover trends, tell stories with visuals, and support data-driven decisions. I’m currently focused on building real-world case studies and dashboards that solve practical business problems.
+
 - 🎓 B.Tech in Information Technology  
 - 📊 Strong in BI, dashboard design and data cleaning  
 - 🧪 Hands-on with SQL, Power BI, Python  
