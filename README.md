@@ -75,7 +75,7 @@ I’m a passionate **Data Analyst** skilled in turning raw data into meaningful 
 ---
 
 ## 📊 GitHub Stats  
-> Replace `YOUR_USERNAME` with your GitHub handle
+> Replace `AdarshC10` with your GitHub handle
 
 ### 🔥 Streak  
 ![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true)
