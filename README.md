@@ -102,6 +102,9 @@ I'm a data enthusiast with a strong foundation in turning raw data into meaningf
     width="500"
   />
 
+  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AdarshC10&layout=compact&hide_border=true&title_color=00FFFF&text_color=FFFFFF&bg_color=0D1117)
+
+
 ---
 
 ## 🏆 GitHub Trophies  
