@@ -85,7 +85,7 @@ I'm a data enthusiast with a strong foundation in turning raw data into meaningf
 ## 📊 GitHub Stats  
 
 ### 🔥 Streak  
-![GitHub Streak](https://streak-stats.demolab.com?user=AdarshC10&theme=transparent&hide_border=true&background=0D1117&currStreakLabel=3FA9F5&sideNums=E2EAF7&sideLabels=6CAFF0&ring=3FA9F5&fire=3FA9F5)
+
 ![GitHub Streak](https://streak-stats.demolab.com?user=AdarshC10&theme=transparent&hide_border=true&background=0D1117&currStreakLabel=BB86FC&sideNums=EDE7F6&sideLabels=C99AF5&ring=BB86FC&fire=BB86FC)
 
 
