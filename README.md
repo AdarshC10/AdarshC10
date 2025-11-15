@@ -86,18 +86,11 @@ I'm a data enthusiast with a strong foundation in turning raw data into meaningf
 
 ### 🔥 Streak  
 
-![GitHub Streak](https://streak-stats.demolab.com?user=AdarshC10&theme=transparent&hide_border=true&background=0D1117&currStreakLabel=BB86FC&sideNums=EDE7F6&sideLabels=C99AF5&ring=BB86FC&fire=BB86FC)
 
 <img 
   src="https://streak-stats.demolab.com?user=AdarshC10&theme=transparent&hide_border=true&background=FFFFFF&currStreakLabel=007BFF&sideNums=000000&sideLabels=007BFF&ring=007BFF&fire=007BFF" 
   width="500"
 />
-
-<img 
-  src="https://streak-stats.demolab.com?user=AdarshC10&hide_border=true&background=FFFFFF&ring=DAA520&fire=FFD700&currStreakLabel=DAA520&sideNums=000000&sideLabels=DAA520" 
-  width="500"
-/>
-
 
 
 
