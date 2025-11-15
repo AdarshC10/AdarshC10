@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hi, I'm **Adarsh C**
+# 👋 Hi, I'm <span style="color:#58a6ff;">Adarsh C</span>
 ### 📊 Data Analyst | Power BI | SQL | Excel | Python | Machine Learning  
 
 </div>
