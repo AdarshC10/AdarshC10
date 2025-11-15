@@ -108,6 +108,10 @@ I'm a data enthusiast with a strong foundation in turning raw data into meaningf
 
 ## 🏆 GitHub Trophies  
 ![Trophies](https://github-profile-trophy.vercel.app/?username=AdarshC10&theme=onedark&row=1&column=6)
+![Trophies](https://github-profile-trophy.vercel.app/?username=AdarshC10&theme=juicyfresh&no-frame=true&no-bg=true&margin-w=15)
+![Trophies](https://github-profile-trophy.vercel.app/?username=AdarshC10&theme=dracula&no-frame=true&margin-w=10)
+
+
 
 </div>
 
