@@ -78,7 +78,7 @@ I'm a data enthusiast with a strong foundation in turning raw data into meaningf
 - Strong understanding of **data cleaning & visualization**  
 
 ---
-
+<div align="center">
 ## 📊 GitHub Stats  
 
 ### 🔥 Streak  
@@ -94,7 +94,7 @@ I'm a data enthusiast with a strong foundation in turning raw data into meaningf
 
 ## 🏆 GitHub Trophies  
 ![Trophies](https://github-profile-trophy.vercel.app/?username=AdarshC10&theme=onedark&row=1&column=6)
-
+</div>
 ---
 
 ## 📫 Connect With Me  
