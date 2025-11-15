@@ -92,11 +92,8 @@ I'm a data enthusiast with a strong foundation in turning raw data into meaningf
 
 
 ### 📈 Stats  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AdarshC10&show_icons=true&theme=tokyonight&hide_border=true&margin-w=13)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AdarshC10&show_icons=true&hide_border=true&bg_color=FFFFFF&text_color=000000&icon_color=007BFF&title_color=007BFF)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AdarshC10&show_icons=true&hide_border=true&bg_color=FFFFFF&text_color=000000&icon_color=0A66C2&title_color=0A66C2)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AdarshC10&show_icons=true&hide_border=true&bg_color=FFFFFF&text_color=000000&icon_color=000000&title_color=000000)
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AdarshC10&show_icons=true&hide_border=true&bg_color=FFFFFF&text_color=000000&icon_color=007BFF&title_color=007BFF)
 
 
 
@@ -107,6 +104,11 @@ I'm a data enthusiast with a strong foundation in turning raw data into meaningf
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdarshC10&layout=compact&hide_border=true&title_color=00FFFF&text_color=FFFFFF&bg_color=0D1117" 
     width="500"
   />
+  <img 
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdarshC10&layout=compact&hide_border=true&bg_color=FFFFFF&title_color=007BFF&text_color=000000&icon_color=007BFF" 
+  width="500"
+/>
+
 
 ---
 
