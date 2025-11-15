@@ -92,7 +92,7 @@ I'm a data enthusiast with a strong foundation in turning raw data into meaningf
 
 
 ### 📈 Stats  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AdarshC10&show_icons=true&theme=tokyonight&hide_border=truemargin-w=13)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AdarshC10&show_icons=true&theme=tokyonight&hide_border=true&margin-w=13)
 
 
 
