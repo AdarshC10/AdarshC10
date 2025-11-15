@@ -122,17 +122,6 @@ I'm a data enthusiast with a strong foundation in turning raw data into meaningf
   src="https://github-profile-trophy.vercel.app/?username=AdarshC10&theme=flat&no-frame=true&margin-w=15&title_color=DAA520&text_color=000000&bg_color=FFFFFF" 
   width="100%"
 />
-<img 
-  src="https://github-profile-trophy.vercel.app/?username=AdarshC10&theme=flat&no-frame=true&margin-w=15&title_color=A020F0&text_color=333333&bg_color=FFFFFF" 
-  width="100%"
-/>
-<img 
-  src="https://github-profile-trophy.vercel.app/?username=AdarshC10&theme=flat&no-frame=true&margin-w=15&title_color=007BFF&text_color=000000&bg_color=FFFFFF" 
-  width="100%"
-/>
-
-
-
 
 
 </div>
