@@ -1,49 +1,98 @@
-## Hi there 👋 I'm Adarsh C
+# 👋 Hi there, I’m **Adarsh C**
 
-
-## 🚀 About Me
-
-I'm a data enthusiast with a strong foundation in turning raw data into meaningful insights. I love working with datasets to uncover trends, tell stories with visuals, and support data-driven decisions. I’m currently focused on building real-world case studies and dashboards that solve practical business problems.
-
-🎓 B.Tech in Information Technology    
-📍 Based in India 
+### 🚀 Full Stack Developer | Data Enthusiast | MERN Developer  
+Passionate about building full-stack applications, dashboards, and turning raw data into meaningful insights.
 
 ---
 
-## 🧰 Tech Stack
+## 🔥 About Me  
+I’m a dedicated **Full Stack & Data Developer** with a strong focus on building real-world applications and analytics projects.
 
-
-### 📊 Data Analytics 
-![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=databricks&logoColor=white)
-![Microsoft Excel](https://img.shields.io/badge/Excel-0A6F34?style=for-the-badge&logo=microsoft&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=black)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
-
-
-### 💻 Frontend Development
-![HTML5](https://img.shields.io/badge/HTML-FF5722?style=for-the-badge&logo=googlechrome&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS-2196F3?style=for-the-badge&logo=bootstrap&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F0DB4F?style=for-the-badge&logo=libuv&logoColor=black)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=reactos&logoColor=black)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind-00BFA6?style=for-the-badge&logo=sass&logoColor=white)
-
-### 🖥️ Backend & Databases
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=vercel&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express-404040?style=for-the-badge&logo=hashnode&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-10AA50?style=for-the-badge&logo=leaflet&logoColor=white)
-
-## 🌐 Others
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=openai&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-F56C2D?style=for-the-badge&logo=workplace&logoColor=white)
-
+- 🎓 B.Tech in Information Technology  
+- 💻 MERN Stack Developer  
+- 📊 Data Analytics & BI Enthusiast  
+- 🌱 Currently learning: Machine Learning, Advanced MERN, Cloud (AWS)  
+- 🔭 Working on full-stack SaaS apps & advanced dashboards  
+- 📍 Based in India  
 
 ---
 
-## 📫 Let's Connect
+## 🧰 Tech Stack  
 
-📧 Email: adarshcrv@gmail.com  
-🔗 [LinkedIn](https://www.linkedin.com/in/adarsh-c-developer)
+### 📊 **Data Analytics & Machine Learning**
+- Python | SQL | Pandas | NumPy  
+- Power BI | Tableau  
+- Scikit-Learn | Matplotlib  
+
+### 💻 **Frontend Development**
+- HTML5 | CSS3 | JavaScript  
+- React.js | Tailwind CSS  
+
+### ⚙️ **Backend Development**
+- Node.js | Express.js  
+
+### 🗄️ **Databases**
+- MongoDB | MySQL  
+
+### 🔧 **Tools**
+- Git | GitHub | VS Code | Postman  
+
+---
+
+## 🧪 Projects  
+
+### 🔵 **Full Stack Projects**
+- HR Onboarding Portal — MERN  
+- Project Tracker App — MERN  
+- Auth System & Profile App — React + Node + MySQL  
+
+### 🟢 **Data & Dashboard Projects**
+- Blinkit Sales Dashboard  
+- Road Accident Dashboard  
+- SQL Case Studies (Danny’s Diner, Pizza Runner)  
+- ML Mini Projects (Classification, Regression)  
+
+---
+
+## 🏆 Achievements  
+- Completed 6-month MERN Stack Training  
+- Built multiple MERN & Full-Stack apps  
+- Developed interactive BI dashboards  
+- Completed several real-world SQL case studies  
+
+---
+
+## 📊 GitHub Stats  
+> 🛑 Replace `YOUR_USERNAME` with your GitHub username
+
+### 🔥 Streak Stats  
+![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true)
+
+### 📈 Profile Stats  
+![Adarsh's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true)
+
+### 🧠 Top Languages  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true)
+
+---
+
+## 🏆 GitHub Trophies  
+![Trophies](https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=onedark&row=1&column=6)
+
+---
+
+## 🐍 Contribution Snake  
+> Add GitHub Action for snake animation, then use:
+
+![snake gif](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.svg)
+
+---
+
+## 📫 Connect With Me  
+📧 Email: **adarshcrv@gmail.com**  
+🔗 LinkedIn: *(Add your link here)*  
+
+---
+
+## ✨ Quote I Believe In  
+> **“Code + Data + Curiosity = Impact.”**
