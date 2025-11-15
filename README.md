@@ -1,4 +1,4 @@
-                                                                              # 👋 Hi, I'm **Adarsh C**
+<cetnter> # 👋 Hi, I'm **Adarsh C** </center>
 ### 📊 Data Analyst | Power BI | SQL | Excel | Python | Machine Learning  
 
 I’m a passionate **Data Analyst** skilled in turning raw data into meaningful insights using analytics, visualization, and data storytelling.
