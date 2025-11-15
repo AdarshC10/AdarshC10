@@ -78,23 +78,23 @@ I’m a passionate **Data Analyst** skilled in turning raw data into meaningful 
 > Replace `AdarshC10` with your GitHub handle
 
 ### 🔥 Streak  
-![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com?user=AdarshC10&theme=tokyonight&hide_border=true)
 
 ### 📈 Stats  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AdarshC10&show_icons=true&theme=tokyonight&hide_border=true)
 
 ### 🧠 Top Languages  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AdarshC10&layout=compact&theme=tokyonight&hide_border=true)
 
 ---
 
 ## 🏆 GitHub Trophies  
-![Trophies](https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=onedark&row=1&column=6)
+![Trophies](https://github-profile-trophy.vercel.app/?username=AdarshC10&theme=onedark&row=1&column=6)
 
 ---
 
 ## 🐍 Contribution Snake  
-![snake gif](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/AdarshC10/AdarshC10/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
