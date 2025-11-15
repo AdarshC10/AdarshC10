@@ -93,6 +93,11 @@ I'm a data enthusiast with a strong foundation in turning raw data into meaningf
   width="500"
 />
 
+<img 
+  src="https://streak-stats.demolab.com?user=AdarshC10&hide_border=true&background=FFFFFF&ring=DAA520&fire=FFD700&currStreakLabel=DAA520&sideNums=000000&sideLabels=DAA520" 
+  width="500"
+/>
+
 
 
 
@@ -117,10 +122,7 @@ I'm a data enthusiast with a strong foundation in turning raw data into meaningf
   src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdarshC10&layout=compact&hide_border=true&bg_color=FFFFFF&title_color=0A66C2&text_color=000000" 
   width="500"
 />
-<img 
-  src="https://streak-stats.demolab.com?user=AdarshC10&hide_border=true&background=FFFFFF&ring=DAA520&fire=FFD700&currStreakLabel=DAA520&sideNums=000000&sideLabels=DAA520" 
-  width="500"
-/>
+
 
 
 ---
