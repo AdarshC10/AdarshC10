@@ -1,6 +1,10 @@
+![Dark](https://i.imgur.com/inuS4kP.png#gh-dark-mode-only)
+![Light](https://i.imgur.com/2wR7XkR.png#gh-light-mode-only)
+
+
 <div align="center">
 
-# 👋 Hi, I'm <span style="color:#58a6ff;">Adarsh C</span>
+# 👋 Hi, I'm Adarsh C
 ### 📊 Data Analyst | Power BI | SQL | Excel | Python | Machine Learning  
 
 </div>
