@@ -93,14 +93,12 @@ I’m a passionate **Data Analyst** skilled in turning raw data into meaningful 
 
 ---
 
-## 🐍 Contribution Snake  
-![snake gif](https://github.com/AdarshC10/AdarshC10/blob/output/github-contribution-grid-snake.svg)
-
----
-
 ## 📫 Connect With Me  
-📧 Email: **adarshcrv@gmail.com**  
-🔗 LinkedIn: *(add your link)*  
+
+[![Email](https://img.shields.io/badge/Email-adarshcrv%40gmail.com-red?style=for-the-badge&logo=gmail)](mailto:adarshcrv@gmail.com)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](www.linkedin.com/in/adarsh-c-developer)
+ 
 
 ---
 
