@@ -68,8 +68,7 @@ I'm a data enthusiast with a strong foundation in turning raw data into meaningf
 - Data Bank
 - Data Mart
 - Foodie FI
-- Calique Bait  
-- Retail & Customer Insights Queries  
+- Calique Bait   
 
 ---
 
