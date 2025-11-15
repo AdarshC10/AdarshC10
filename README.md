@@ -75,7 +75,6 @@ I’m a passionate **Data Analyst** skilled in turning raw data into meaningful 
 ---
 
 ## 📊 GitHub Stats  
-> Replace `AdarshC10` with your GitHub handle
 
 ### 🔥 Streak  
 ![GitHub Streak](https://streak-stats.demolab.com?user=AdarshC10&theme=tokyonight&hide_border=true)
@@ -103,4 +102,4 @@ I’m a passionate **Data Analyst** skilled in turning raw data into meaningful 
 ---
 
 ## ✨ Quote I Believe In  
-> **“Good analysts don’t just show data — they reveal insights.”**
+> **“Analytics is the art of transforming uncertainty into clarity.”**
