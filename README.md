@@ -93,7 +93,7 @@ I'm a data enthusiast with a strong foundation in turning raw data into meaningf
 
   <img 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdarshC10&layout=compact&theme=tokyonight&hide_border=true" 
-    width="300"
+    width="500"
   />
 
 ---
