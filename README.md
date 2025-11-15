@@ -1,6 +1,3 @@
-![Dark](https://i.imgur.com/inuS4kP.png#gh-dark-mode-only)
-![Light](https://i.imgur.com/2wR7XkR.png#gh-light-mode-only)
-
 
 <div align="center">
 
