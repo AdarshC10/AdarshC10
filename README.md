@@ -117,10 +117,6 @@ I'm a data enthusiast with a strong foundation in turning raw data into meaningf
 ## 🏆 GitHub Trophies  
 
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AdarshC10&theme=flat&no-frame=true&margin-w=15&title_color=DAA520&text_color=000000&bg_color=FFFFFF" />
-</p>
-
 
 
 
@@ -131,12 +127,12 @@ I'm a data enthusiast with a strong foundation in turning raw data into meaningf
 
 ## 📫 Connect With Me  
 
+<div align ="center">
+ 
 [![Email](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adarshcrv@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adarsh-c-developer)
 
-[![Email](https://img.shields.io/badge/-000?style=social&logo=gmail)](mailto:adarshcrv@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/-000?style=social&logo=linkedin)](https://www.linkedin.com/in/adarsh-c-developer)
-
+</div>
  
 
 ---
