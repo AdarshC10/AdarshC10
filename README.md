@@ -119,6 +119,14 @@ I'm a data enthusiast with a strong foundation in turning raw data into meaningf
 
 
 
+![](https://github-profile-trophy.vercel.app/?username=AdarshC10&theme=flat&no-frame=true&margin-w=15)
+
+![](https://github-profile-trophy.vercel.app/?username=AdarshC10&theme=flat&no-frame=true&margin-w=15&title_color=DAA520&text_color=000000&bg_color=FFFFFF)
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=AdarshC10&theme=flat&no-frame=true&margin-w=15&title_color=DAA520&text_color=000000&bg_color=FFFFFF" />
+</p>
+
 
 
 </div>
