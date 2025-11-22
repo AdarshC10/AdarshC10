@@ -113,6 +113,8 @@ I'm a data enthusiast with a strong foundation in turning raw data into meaningf
 
 
 ---
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=AdarshC10&theme=vue)
+
 
 
 </div>
