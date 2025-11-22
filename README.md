@@ -113,7 +113,11 @@ I'm a data enthusiast with a strong foundation in turning raw data into meaningf
 
 
 ---
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=AdarshC10&theme=vue)
+
+## 🔥 Weekly activity
+A quick look at my GitHub contribution activity:
+
+[![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=AdarshC10&theme=react-dark&hide_border=true&area=true&width=900)](https://github.com/AdarshC10)
 
 
 
