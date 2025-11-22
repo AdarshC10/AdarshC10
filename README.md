@@ -119,10 +119,6 @@ A quick look at my GitHub contribution activity:
 
 [![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=AdarshC10&theme=github-light&hide_border=true)](https://github.com/AdarshC10)
 
-[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=AdarshC10&theme=solarized-light&hide_border=true)](https://github.com/AdarshC10)
-
-
-[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=AdarshC10&theme=react-dark&hide_border=true)](https://github.com/AdarshC10)
 
 
 </div>
