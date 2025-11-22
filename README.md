@@ -112,11 +112,6 @@ I'm a data enthusiast with a strong foundation in turning raw data into meaningf
 />
 
 
----
-
-
-
----
 
 ## 🔥 Weekly activity
 A quick look at my GitHub contribution activity:
