@@ -114,6 +114,11 @@ I'm a data enthusiast with a strong foundation in turning raw data into meaningf
 
 ---
 
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=AdarshC10&theme=flat&no-frame=true&margin-w=10)
+
+---
+
 ## 🔥 Weekly activity
 A quick look at my GitHub contribution activity:
 
