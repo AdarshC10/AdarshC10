@@ -1,63 +1,8 @@
 
 
 <div align="center">
-```
-<div class="intro-container">
-  <h1 id="introText"></h1>
-</div>
 
-<style>
-.intro-container {
-  text-align: center;
-  margin-top: 40px;
-  font-family: "Poppins", sans-serif;
-}
-
-#introText {
-  font-size: 45px;
-  font-weight: 700;
-  animation: fade 1s ease-in-out;
-}
-
-/* Fade animation */
-@keyframes fade {
-  0% { opacity: 0; transform: translateY(10px); }
-  100% { opacity: 1; transform: translateY(0); }
-}
-
-/* Responsive */
-@media (max-width: 600px) {
-  #introText {
-    font-size: 30px;
-  }
-}
-</style>
-
-<script>
-const texts = [
-  { text: "👋 Hi, I'm Adarsh C", color: "#00AEEF" },
-  { text: "Aspiring Data Scientist", color: "#27AE60" },
-  { text: "And Data Analyst", color: "#F39C12" }
-];
-
-let index = 0;
-const intro = document.getElementById("introText");
-
-function changeText() {
-  intro.style.color = texts[index].color;
-  intro.textContent = texts[index].text;
-  intro.classList.remove("fade");
-  void intro.offsetWidth; // restart animation
-  intro.classList.add("fade");
-  index = (index + 1) % texts.length;
-}
-
-setInterval(changeText, 3200);
-changeText();
-</script>
-
-```
-
+# Hi I'm Adarsh C
 ### 📊 Data Analyst | Power BI | SQL | Excel | Python | Machine Learning  
 
 </div>
