@@ -1,7 +1,7 @@
 
 
 <div align="center">
-
+```
 <div class="intro-container">
   <h1 id="introText"></h1>
 </div>
@@ -55,6 +55,8 @@ function changeText() {
 setInterval(changeText, 3200);
 changeText();
 </script>
+
+```
 
 ### 📊 Data Analyst | Power BI | SQL | Excel | Python | Machine Learning  
 
