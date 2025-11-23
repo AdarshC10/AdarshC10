@@ -5,8 +5,9 @@
 <h1 align="center">👋 Hi, I'm Adarsh C</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3000&pause=1200&color=27AE60&center=true&vCenter=true&width=720&lines=Aspiring+Data+Scientist;Aspiring+Data+Analyst" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=36&duration=3000&pause=800&color=00AEEF&center=true&vCenter=true&width=1000&lines=👋+Hi%2C+I'm+Adarsh+C+-+Aspiring+Data+Scientist+and+Data+Analyst" />
 </p>
+
 
 ### 📊 Data Analyst | Power BI | SQL | Excel | Python | Machine Learning  
 
