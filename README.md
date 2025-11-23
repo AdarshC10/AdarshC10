@@ -122,7 +122,17 @@ I'm a data enthusiast with a strong foundation in turning raw data into meaningf
 ## 🔥 Weekly activity
 A quick look at my GitHub contribution activity:
 
-[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=AdarshC10&theme=github-light&hide_border=true)](https://github.com/AdarshC10)
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AdarshC10&theme=github-light&hide_border=true" alt="Activity Graph" style="animation: fadeIn 2s ease-in-out;">
+</div>
+
+<style>
+@keyframes fadeIn {
+  0% { opacity: 0; transform: translateY(10px); }
+  100% { opacity: 1; transform: translateY(0); }
+}
+</style>
+
 
 
 ## 🏆 GitHub Achievements & Trophies
