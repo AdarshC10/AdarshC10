@@ -123,7 +123,7 @@ I'm a data enthusiast with a strong foundation in turning raw data into meaningf
 A quick look at my GitHub contribution activity:
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AdarshC10&theme=github-light&hide_border=true" alt="Activity Graph" style="animation: fadeIn 2s ease-in-out;">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AdarshC10&theme=github-light&hide_border=true" alt="Activity Graph" style="animation: fadeIn 4s ease-in-out;">
 </div>
 
 
