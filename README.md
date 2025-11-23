@@ -126,19 +126,14 @@ A quick look at my GitHub contribution activity:
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=AdarshC10&theme=github-light&hide_border=true" alt="Activity Graph" style="animation: fadeIn 2s ease-in-out;">
 </div>
 
-<style>
-@keyframes fadeIn {
-  0% { opacity: 0; transform: translateY(10px); }
-  100% { opacity: 1; transform: translateY(0); }
-}
-</style>
+
 
 
 
 ## 🏆 GitHub Achievements & Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AdarshC10&theme=flat&column=8" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AdarshC10&theme=github-light&hide_border=true&area=true&area_color=84cc16&point=1b76d1&line=1b76d1" width="95%">
 </p>
 
 
