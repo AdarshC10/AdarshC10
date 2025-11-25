@@ -91,24 +91,17 @@ I'm a data enthusiast with a strong foundation in turning raw data into meaningf
 
 ### 🔥 Streak
 
-<img
-  src="https://streak-stats.demolab.com?user=AdarshC10&theme=transparent&hide_border=true"
-  width="500"
-/>
+<img src="https://streak-stats.demolab.com?user=AdarshC10&theme=transparent&hide_border=true" width="500"/>
+
 
 ### 📈 Stats
+<img src="https://github-readme-stats.vercel.app/api?username=AdarshC10&show_icons=true&hide_border=true&theme=transparent&cache_seconds=7200" width="500"/>
 
-<img
-  src="https://github-readme-stats.vercel.app/api?username=AdarshC10&show_icons=true&hide_border=true&theme=transparent"
-  width="500"
-/>
 
 ### 🧠 Top Languages
 
-<img
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdarshC10&layout=compact&hide_border=true&theme=transparent"
-  width="500"
-/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdarshC10&layout=compact&hide_border=true&theme=transparent&cache_seconds=7200" width="500"/>
+
 
 
 
@@ -116,8 +109,9 @@ I'm a data enthusiast with a strong foundation in turning raw data into meaningf
 A quick look at my GitHub contribution activity:
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AdarshC10&theme=github-light&hide_border=true&area=true&area_color=84cc16&point=1b76d1&line=1b76d1" width="95%">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AdarshC10&theme=react&hide_border=true" width="95%">
 </p>
+
 
 
 
