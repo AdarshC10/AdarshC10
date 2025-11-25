@@ -96,19 +96,14 @@ I'm a data enthusiast with a strong foundation in turning raw data into meaningf
 
 ### 📈 Stats
 
-<img
-  src="https://github-readme-stats.vercel.app/api?username=AdarshC10&show_icons=true&hide_border=true&theme=transparent"
-  width="500"
-/>
+<img src="https://github-stats.demolab.com/api?username=AdarshC10&show_icons=true&hide_border=true&theme=transparent" width="500" />
 
 
 
 ### 🧠 Top Languages
 
-<img
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdarshC10&layout=compact&hide_border=true&theme=transparent"
-  width="500"
-/>
+<img src="https://github-stats.demolab.com/api/top-langs/?username=AdarshC10&layout=compact&hide_border=true&theme=transparent" width="500" />
+
 
 
 
