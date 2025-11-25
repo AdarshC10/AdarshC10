@@ -93,7 +93,8 @@ I'm a data enthusiast with a strong foundation in turning raw data into meaningf
 
 
 <img 
-  src="https://streak-stats.demolab.com?user=AdarshC10&theme=transparent&hide_border=true&background=FFFFFF&currStreakLabel=007BFF&sideNums=000000&sideLabels=007BFF&ring=007BFF&fire=007BFF" width="500/>
+  src="https://streak-stats.demolab.com?user=AdarshC10&theme=transparent&hide_border=true&background=FFFFFF&currStreakLabel=007BFF&sideNums=000000&sideLabels=007BFF&ring=007BFF&fire=007BFF" 
+  width="500"/>
 
 
 
