@@ -101,7 +101,7 @@ I'm a data enthusiast with a strong foundation in turning raw data into meaningf
 
 ### 🧠 Top Languages
 
-<img src="https://raw.githubusercontent.com/AdarshC10/github-stats/master/generated/languages.svg" width="500"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdarshC10&layout=compact&hide_border=true&theme=transparent" width="500" />
 
 
 
