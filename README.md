@@ -110,9 +110,7 @@ I'm a data enthusiast with a strong foundation in turning raw data into meaningf
 ## 🔥 Weekly activity
 A quick look at my GitHub contribution activity:
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AdarshC10&theme=react&hide_border=true" width="95%">
-</p>
+<p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=AdarshC10&theme=github-light&hide_border=true&area=true&area_color=84cc16&point=1b76d1&line=1b76d1" width="95%"> </p>
 
 
 
