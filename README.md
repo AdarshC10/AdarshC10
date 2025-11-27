@@ -88,17 +88,8 @@ I'm a data enthusiast with a strong foundation in turning raw data into meaningf
 ---
 <div align="center">
  
-## 📊 GitHub Stats  
+ 
 
-### 🔥 Streak
-<img src="https://streak-stats.demolab.com?user=AdarshC10&theme=transparent&hide_border=true" width="500"/>
-
-
-### 📈 Stats
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=AdarshC10&show_icons=true&hide_border=true&theme=transparent" width="500" />
-
-### 🧠 Top Languages
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=AdarshC10&layout=compact&hide_border=true&theme=transparent" width="500" />
 
 
 
@@ -108,8 +99,6 @@ I'm a data enthusiast with a strong foundation in turning raw data into meaningf
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AdarshC10&theme=github" />
   <br>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AdarshC10&theme=github" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AdarshC10&theme=github" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AdarshC10&theme=github" />
   <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AdarshC10&layout=compact&theme=github" />
 
 
