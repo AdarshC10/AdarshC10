@@ -96,11 +96,11 @@ I'm a data enthusiast with a strong foundation in turning raw data into meaningf
 ## 📊 GitHub Insights  
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AdarshC10&theme=github" width="500" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AdarshC10&theme=github" width="80%" />
   <br>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AdarshC10&theme=github" width="500" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AdarshC10&theme=github" width="60%" />
   <br>
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AdarshC10&theme=github" width="500" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AdarshC10&layout=compact&theme=github" width="60%" />
 </p>
 
 
