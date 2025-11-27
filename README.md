@@ -1,5 +1,9 @@
+
 <p align="center">
-  <img src="https://raw.githubusercontent.com/AdarshC10/AdarshC10/main/github-metrics.svg" alt="GitHub Metrics" />
+  <img src="https://img.shields.io/badge/Commits-💻%20+800-blue" />
+  <img src="https://img.shields.io/badge/Repositories-📁%2025-yellow" />
+  <img src="https://img.shields.io/badge/Followers-👥%2035-green" />
+  <img src="https://img.shields.io/badge/Stars-⭐%20120-orange" />
 </p>
 
 
