@@ -109,6 +109,8 @@ I'm a data enthusiast with a strong foundation in turning raw data into meaningf
   <br>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AdarshC10&theme=github" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AdarshC10&theme=github" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AdarshC10&theme=github" />
+
 </p>
 
 
