@@ -1,10 +1,12 @@
+## 📊 GitHub Insights  
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Commits-💻%20+800-blue" />
-  <img src="https://img.shields.io/badge/Repositories-📁%2025-yellow" />
-  <img src="https://img.shields.io/badge/Followers-👥%2035-green" />
-  <img src="https://img.shields.io/badge/Stars-⭐%20120-orange" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AdarshC10&theme=github" />
+  <br>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AdarshC10&theme=github" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AdarshC10&theme=github" />
 </p>
+
 
 
 <div align="center">
