@@ -1,4 +1,4 @@
-
+    
 
 
 <div align="center">
@@ -99,19 +99,11 @@ I'm a data enthusiast with a strong foundation in turning raw data into meaningf
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AdarshC10&theme=github" />
   <br>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AdarshC10&theme=github" />
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AdarshC10&layout=compact&theme=github" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AdarshC10&theme=github" />
 
 
 </p>
 
-## 📈 GitHub Insights
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AdarshC10&theme=github" />
-  <br>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AdarshC10&theme=github" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AdarshC10&theme=github" />
-</p>
 
 
 
