@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/AdarshC10/AdarshC10/main/github-metrics.svg" alt="GitHub Metrics" />
+</p>
 
 
 <div align="center">
