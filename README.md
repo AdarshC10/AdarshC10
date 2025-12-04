@@ -77,7 +77,7 @@ I'm a data enthusiast with a strong foundation in turning raw data into meaningf
 - Data Mart
 - Foodie FI
 - Calique Bait   
-- **SQL Netflix show Movie**
+- **Netflix show Movie**
 ---
 
 ## 🏆 Achievements
