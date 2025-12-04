@@ -62,7 +62,8 @@ I'm a data enthusiast with a strong foundation in turning raw data into meaningf
 - **HR Dashboard** – Excel  
 - **Budget And Sales Dashboard** – Power BI
 - **Ice Cream Sales Dashboard** – Power BI
-- **Meta Ad Perfomance Dashboard** – Power BI 
+- **Meta Ad Perfomance Dashboard** – Power BI
+- **Uber Data Analysis** - Power BI
 
 ### 🐍 Python / ML
 - ML Mini Projects  
