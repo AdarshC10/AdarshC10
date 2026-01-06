@@ -4,7 +4,7 @@
 <div align="center">
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3000&pause=1500&color=9B59B6&vCenter=true&width=900&lines=👋+Hi+I'm+Adarsh+C;🎯+Aspiring+Data+Scientist+|+Data+Analyst+|+Business+Analyst" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=1500&color=9B59B6&center=true&vCenter=true&width=1200&lines=👋+Hi+I'm+Adarsh+C;🎯+Aspiring+Data+Scientist+|+Data+Analyst+|+Business+Analyst" />
 </div>
 
 
